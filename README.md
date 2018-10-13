@@ -1,7 +1,7 @@
 # Flask API
 ## Introduction
 
-> Badges here
+[![Build Status](https://travis-ci.org/waracci/Flask_api.svg?branch=master)](https://travis-ci.org/waracci/Flask_api)
 
 ## Run in Postman
 
@@ -64,7 +64,7 @@ environment variables are stored in .env file
 
 #### Running the application
 
-```$ flask run```
+```$ flask run``` 
 
 *Step 5*
 
