@@ -7,5 +7,5 @@ script:
   - nosetests --with-coverage --cover-package=app app/tests
 
 after-success:
-  - coveralls
+  - codecov
   - codecov --token=98be7c9f-8dc8-4497-9845-ce3d503e78ab
