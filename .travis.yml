@@ -4,5 +4,4 @@ python:
 install:
 - pip install -r requirements.txt
 script:
-  - python manage.py run_tests
   - nosetests --with-coverage --cover-package=app app/tests
